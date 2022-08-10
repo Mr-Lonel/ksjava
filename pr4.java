@@ -1,5 +1,5 @@
 package ks;
-
+// to print spilt integer  if opertors comes ex:12#246+ output:12 246
 public class pr4 {
 
 	public static void main(String[] args) {
